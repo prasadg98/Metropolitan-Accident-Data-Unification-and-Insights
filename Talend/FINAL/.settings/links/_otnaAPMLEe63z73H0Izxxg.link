@@ -1,0 +1,129 @@
+{
+  "itemId" : "_otnaAPMLEe63z73H0Izxxg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Q2keoPMGEe63z73H0Izxxg",
+    "parameterList" : [ {
+      "id" : "_Q3CYsfMGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_Header"
+    }, {
+      "id" : "_Q3CYsvMGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_FirstColumn"
+    }, {
+      "id" : "_Q3CYs_MGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_LastColumn"
+    }, {
+      "id" : "_Q3CYtPMGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_Encoding"
+    }, {
+      "id" : "_Q3CYtfMGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_DecimalSeparator"
+    }, {
+      "id" : "_Q3CYtvMGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_File"
+    }, {
+      "id" : "_Q3CYt_MGEe63z73H0Izxxg",
+      "name" : "Vehicle_Type_Mapping_ThousandSeparator"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_XBADoPIhEe6kWckoVN91QA",
+    "parameterList" : [ {
+      "id" : "_XBQiV_IhEe6kWckoVN91QA",
+      "name" : "austin_stagged_Database"
+    }, {
+      "id" : "_XBQiVPIhEe6kWckoVN91QA",
+      "name" : "austin_stagged_Password"
+    }, {
+      "id" : "_XBQiUfIhEe6kWckoVN91QA",
+      "name" : "austin_stagged_Schema"
+    }, {
+      "id" : "_XBQiVvIhEe6kWckoVN91QA",
+      "name" : "austin_stagged_AdditionalParams"
+    }, {
+      "id" : "_XBQiVfIhEe6kWckoVN91QA",
+      "name" : "austin_stagged_Server"
+    }, {
+      "id" : "_XBQiUvIhEe6kWckoVN91QA",
+      "name" : "austin_stagged_Login"
+    }, {
+      "id" : "_XBQiU_IhEe6kWckoVN91QA",
+      "name" : "austin_stagged_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_QDfe8PIhEe6kWckoVN91QA",
+    "parameterList" : [ {
+      "id" : "_QDzA8fIhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_Schema"
+    }, {
+      "id" : "_QDzA9vIhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_AdditionalParams"
+    }, {
+      "id" : "_QDzA8vIhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_Login"
+    }, {
+      "id" : "_QDzA9_IhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_Database"
+    }, {
+      "id" : "_QDzA9PIhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_Password"
+    }, {
+      "id" : "_QDzA9fIhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_Server"
+    }, {
+      "id" : "_QDzA8_IhEe6kWckoVN91QA",
+      "name" : "chicago_stagged_Port"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_d4b1gPIhEe6kWckoVN91QA",
+    "parameterList" : [ {
+      "id" : "_d4vXh_IhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_Database"
+    }, {
+      "id" : "_d4vXhPIhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_Password"
+    }, {
+      "id" : "_d4vXhvIhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_AdditionalParams"
+    }, {
+      "id" : "_d4vXgvIhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_Login"
+    }, {
+      "id" : "_d4vXgfIhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_Schema"
+    }, {
+      "id" : "_d4vXg_IhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_Port"
+    }, {
+      "id" : "_d4vXhfIhEe6kWckoVN91QA",
+      "name" : "dallas_stagged_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_nbrzsO4LEe6W7OkL1eZV5g",
+    "parameterList" : [ {
+      "id" : "_nb_Vte4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_AdditionalParams"
+    }, {
+      "id" : "_nb_Vse4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_Database"
+    }, {
+      "id" : "_nb_Vt-4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_Login"
+    }, {
+      "id" : "_nb_Vtu4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_Password"
+    }, {
+      "id" : "_nb_VtO4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_Server"
+    }, {
+      "id" : "_nb_Vsu4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_Port"
+    }, {
+      "id" : "_nb_Vs-4LEe6W7OkL1eZV5g",
+      "name" : "Local_SQLSERVER_MVC_Schema"
+    } ]
+  } ]
+}

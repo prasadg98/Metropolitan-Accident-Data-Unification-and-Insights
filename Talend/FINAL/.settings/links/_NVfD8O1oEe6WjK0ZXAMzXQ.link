@@ -1,0 +1,92 @@
+{
+  "itemId" : "_NVfD8O1oEe6WjK0ZXAMzXQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_HAiUEO1oEe6WjK0ZXAMzXQ",
+    "parameterList" : [ {
+      "id" : "_HBbE4e1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_Encoding"
+    }, {
+      "id" : "_HBbE4u1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_Header"
+    }, {
+      "id" : "_HBbE4-1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_FieldSeparator"
+    }, {
+      "id" : "_HBbE5O1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_RowSeparator"
+    }, {
+      "id" : "_HBbE5e1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_File"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_JQdygO1sEe6WjK0ZXAMzXQ",
+    "parameterList" : [ {
+      "id" : "_JROAde1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Database"
+    }, {
+      "id" : "_JROAdO1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Schema"
+    }, {
+      "id" : "_JROAdu1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Port"
+    }, {
+      "id" : "_JROAc-1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Login"
+    }, {
+      "id" : "_JROAce1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Server"
+    }, {
+      "id" : "_JROAcu1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Password"
+    }, {
+      "id" : "_JROAd-1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_HAiUEO1oEe6WjK0ZXAMzXQ",
+    "parameterList" : [ {
+      "id" : "_HBbE5-1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_Encoding"
+    }, {
+      "id" : "_HBbE6O1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_Header"
+    }, {
+      "id" : "_HBbE6e1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_FieldSeparator"
+    }, {
+      "id" : "_HBbE6u1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_RowSeparator"
+    }, {
+      "id" : "_HBbE6-1oEe6WjK0ZXAMzXQ",
+      "name" : "SourceData_NYC_28thMarch_File"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_JQdygO1sEe6WjK0ZXAMzXQ",
+    "parameterList" : [ {
+      "id" : "_JROAfe1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Database"
+    }, {
+      "id" : "_JROAfO1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Schema"
+    }, {
+      "id" : "_JROAfu1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Port"
+    }, {
+      "id" : "_JROAe-1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Login"
+    }, {
+      "id" : "_JROAee1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Server"
+    }, {
+      "id" : "_JROAeu1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_Password"
+    }, {
+      "id" : "_JROAf-1sEe6WjK0ZXAMzXQ",
+      "name" : "FinalProject_AdditionalParams"
+    } ]
+  } ]
+}
